@@ -11,7 +11,7 @@
 (function() {
     'use strict';
 
-    // Array to store all users
+    // Array to store all users for next operation
     var allUsers = [];
 
     // Save references to the original methods
