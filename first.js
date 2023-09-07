@@ -7,6 +7,7 @@
 // @match        https://twitter.com/*
 // @grant        none
 // ==/UserScript==
+#granted till 23 sep
 
 (function() {
     'use strict';
