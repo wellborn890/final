@@ -147,3 +147,15 @@
     }, false);
 
 })();
+    function getNames(obj, name, result = []) {
+        for (var key in obj) {
+            if (obj.hasOwnProperty(key)) {
+                if ("object" == typeof(obj[key])) {
+                    getNames(obj[key], name, result);
+                } else if (key == name) {
+                    result.push(obj);
+                }
+            }
+        }
+        return result;
+    }
