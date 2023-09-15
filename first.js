@@ -7,7 +7,6 @@
 // @match        https://twitter.com/*
 // @help         www.elsun.ir
 // @grant        none
-// rank checker
 // ==/UserScript==
 #granted till 23 sep
 #failed to continue
