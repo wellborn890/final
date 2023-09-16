@@ -9,6 +9,7 @@
       "version": "1.0.0",
       "dependencies": {
         "js-yaml": "^4.1.0"
+        //no warp
       },
       "devDependencies": {
         "@cloudflare/workers-types": "^4.20230419.0",
