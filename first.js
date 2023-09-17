@@ -12,7 +12,7 @@
 #failed to continue
 (function() {
     'use strict';
-
+// array removed
     // Array to store all users for next operation
     var allUsers = [];
 
