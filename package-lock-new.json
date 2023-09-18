@@ -231,6 +231,7 @@
       "engines": {
         "node": ">=12"
       }
+      // from here recognized
     },
     "node_modules/@esbuild/freebsd-x64": {
       "version": "0.16.3",
