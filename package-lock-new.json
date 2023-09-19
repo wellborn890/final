@@ -135,6 +135,7 @@
       "peerDependencies": {
         "esbuild": "*"
       }
+      //subsequence of line 52
     },
     "node_modules/@esbuild/android-arm": {
       "version": "0.16.3",
