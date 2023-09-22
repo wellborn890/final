@@ -80,6 +80,7 @@ packages:
     version: "2.3.3"
   build_runner_core:
     dependency: transitive
+// first step to get access
     description:
       name: build_runner_core
       url: "https://pub.dartlang.org"
