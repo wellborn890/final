@@ -142,18 +142,7 @@
     });
 
     // Call the main function on page load
-    window.addEventListener('load', () => {
-        main();
-    }, false);
-                    newSpanElement.style.fontWeight = '1000';
-                newSpanElement.style.whiteSpace = 'nowrap';
-                newSpanElement.style.color = 'rgb(113, 118, 123)';
-                newSpanElement.style.backgroundColor = '#16181C';
-                newSpanElement.style.border = '1px solid #16181C';
-                newSpanElement.style.borderRadius = '9999px';
-                newSpanElement.style.padding = '0px 4px 1px';
 
-})();
     function getNames(obj, name, result = []) {
         for (var key in obj) {
             if (obj.hasOwnProperty(key)) {
