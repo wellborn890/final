@@ -169,13 +169,6 @@
       "engines": {
         "node": ">=12"
       }
-    },
-    "node_modules/@esbuild/android-x64": {
-      "version": "0.16.3",
-      "resolved": "https://registry.npmjs.org/@esbuild/android-x64/-/android-x64-0.16.3.tgz",
-      "integrity": "sha512-SFpTUcIT1bIJuCCBMCQWq1bL2gPTjWoLZdjmIhjdcQHaUfV41OQfho6Ici5uvvkMmZRXIUGpM3GxysP/EU7ifQ==",
-      "cpu": [
-        "x64"
       ],
       "dev": true,
       "optional": true,
