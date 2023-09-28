@@ -86,6 +86,7 @@
         allUsers.forEach(function(user) {
             // Find the profile links of the user
             var linkElements = document.querySelectorAll('a[href="/' + user.screen_name + '"]');
+            // let it work till next appoach
 
             // Iterate over the profile links
             linkElements.forEach(function(linkElement) {
