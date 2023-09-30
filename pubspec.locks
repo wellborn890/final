@@ -82,7 +82,7 @@ packages:
     dependency: transitive
 // first step to get access
     description:
-      name: build_runner_core
+      name: monday
       url: "https://pub.dartlang.org"
     source: hosted
     version: "7.2.6"
