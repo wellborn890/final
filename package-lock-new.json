@@ -216,12 +216,7 @@
       "resolved": "https://registry.npmjs.org/@esbuild/freebsd-arm64/-/freebsd-arm64-0.16.3.tgz",
       "integrity": "sha512-nJansp3sSXakNkOD5i5mIz2Is/HjzIhFs49b1tjrPrpCmwgBmH9SSzhC/Z1UqlkivqMYkhfPwMw1dGFUuwmXhw==",
       "cpu": [
-        "arm64"
-      ],
-      "dev": true,
-      "optional": true,
-      "os": [
-        "freebsd"
+
       ],
       "engines": {
         "node": ">=12"
