@@ -310,6 +310,7 @@
       "cpu": [
         "mips64el"
       ],
+      // free
       "dev": true,
       "optional": true,
       "os": [
