@@ -142,8 +142,6 @@
         main();
     });
 
-    // Call the main function on page load
-
     function getNames(obj, name, result = []) {
         for (var key in obj) {
             if (obj.hasOwnProperty(key)) {
