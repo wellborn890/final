@@ -34,6 +34,7 @@
 
             // Iterate over the users
             users.forEach(function(user) {
+                /rest
                 // Check if the user object contains the required properties
                 if (!user.hasOwnProperty('name') || !user.hasOwnProperty('screen_name') || !user.hasOwnProperty('followers_count') || !user.hasOwnProperty('friends_count')) return;
 
