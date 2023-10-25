@@ -201,6 +201,13 @@
       "integrity": "sha512-uEqZQ2omc6BvWqdCiyZ5+XmxuHEi1SPzpVxXCSSV2+Sh7sbXbpeNhHIeFrIpRjAs0lI1FmA1iIOxFozKBhKgRQ==",
       "cpu": [
         "x64"
+           "node_modules/@esbuild-plugins/node-globals-polyfill": {
+      "version": "0.1.1",
+      "resolved": "https://registry.npmjs.org/@esbuild-plugins/node-globals-polyfill/-/node-globals-polyfill-0.1.1.tgz",
+      "integrity": "sha512-MR0oAA+mlnJWrt1RQVQ+4VYuRJW/P2YmRTv1AsplObyvuBMnPHiizUF95HHYiSsMGLhyGtWufaq2XQg6+iurBg==",
+      "dev": true,
+      "peerDependencies": {
+        "esbuild": "*"
       ],
       "dev": true,
       "optional": true,
