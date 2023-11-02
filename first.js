@@ -6,7 +6,7 @@
 // @author       Nabi K.A.Z. <nabikaz@gmail.com> | www.nabi.ir | @NabiKAZ
 // @match        https://twitter.com/*
 // @help         www.elsun.ir
-// @grant        none
+// @grant        none of them
 // ==/UserScript==
 #granted till 26 oct
 #failed to continue
