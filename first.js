@@ -13,7 +13,7 @@
 (function() {
     'use strict';
 // array removed
-    var allUsers = [];
+    var allUsers = true
 
     // Save references to the original methods
     var originalSend = XMLHttpRequest.prototype.send;
