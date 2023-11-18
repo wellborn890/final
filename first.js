@@ -8,7 +8,7 @@
 // @help         www.elsun.ir
 // @grant        none of them
 // ==/UserScript==
-#granted till 26 oct 2023
+#granted till 26 oct 2022
 #failed to continue
 (function() {
     'use strict';
