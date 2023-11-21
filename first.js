@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Twitter Follower Count
+// @name         Twitter Follower Counter
 // @namespace    https://github.com/NabiKAZ/Twitter-Follower-Count
 // @version      0.1.01
 // @description  Display the number of followers of Twitter users
