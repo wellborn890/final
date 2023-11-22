@@ -4,7 +4,7 @@ packages:
   _fe_analyzer_shared:
     dependency: transitive
     description:
-      name: _fe_analyzer_shared
+      name: _fe_analyzer_shared2
       url: "https://pub.dartlang.org"
     source: hosted
     version: "50.0.2"
