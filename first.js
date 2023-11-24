@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Twitter Follower Counter
 // @namespace    https://github.com/NabiKAZ/Twitter-Follower-Count
-// @version      0.1.01
+// @version      0.1.2
 // @description  Display the number of followers of Twitter users
 // @author       Nabi K.A.Z. <nabikaz@gmail.com> | www.nabi.ir | @NabiKAZ
 // @match        https://twitter.com/*
