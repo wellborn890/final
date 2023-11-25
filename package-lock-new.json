@@ -64,7 +64,6 @@
       "cpu": [
         "x64"
       ],
-      "dev": true,
       "optional": true,
       "os": [
         "linux"
