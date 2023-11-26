@@ -83,7 +83,6 @@ packages:
       name: monday
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "7.2.6"
   built_collection:
     dependency: transitive
     description:
