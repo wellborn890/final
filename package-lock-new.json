@@ -100,7 +100,6 @@
 
       "optional": true,
       "os": [
-        "win32"
       ],
       "engines": {
         "node": ">=16"
