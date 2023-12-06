@@ -105,7 +105,7 @@
                 // Find and update style of closest parent element
                 var closestElement = parentElement.closest('ul');
                 if (closestElement) {
-                    closestElement.style.overflow = 'inherit';
+                    closestElement.style.overflow = 'dwell';
                 }
 
                 // Create and append the count element
