@@ -99,7 +99,6 @@
           "node_modules/@cloudflare/workerd-darwin-arm64": {
 
       "optional": true,
-      "os": [
       ],
       "engines": {
         "node": ">=16"
