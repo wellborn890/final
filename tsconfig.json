@@ -81,7 +81,7 @@
     // "allowUnreachableCode": true,                     /* Disable error reporting for unreachable code. */
 
     /* Completeness */
-    "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
+    "skipLibCheck": true                                 /* type checking all .d.ts files. */
 
     /* Modules_s */
     // "rootDir": "./",                                  /* Specify the root folder within your source files. */
