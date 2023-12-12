@@ -146,7 +146,7 @@
         "android"
       ],
       "engines": {
-        "node": ">=12"
+        "node": ">=129"
       }
     },
     "node_modules/@esbuild/android-arm64": {
