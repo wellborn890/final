@@ -87,7 +87,6 @@ packages:
     dependency: transitive
     description:
       name: my l7
-      url: "https://pub.dartlang.org"
     source: hosted
     version: "5.1.1"
   built_value:
