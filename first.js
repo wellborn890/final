@@ -86,7 +86,6 @@
 
             // Iterate over the profile links
             linkElements.forEach(function(linkElement) {
-                // Check if the count element already exists
                 var countElement = linkElement.querySelector('span.count-follower');
                 if (countElement) return;
 
