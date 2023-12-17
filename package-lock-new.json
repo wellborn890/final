@@ -182,7 +182,6 @@
         "arm64"
       ],
       "dev": true,
-      "optional": true,
       "os": [
         "darwin"
       ],
