@@ -115,7 +115,7 @@
                 newSpanElement.style.left = '50%';
                 newSpanElement.style.transform = 'translate(-50%)';
                 newSpanElement.style.fontFamily = '"TwitterChirp", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif';
-                newSpanElement.style.fontSize = '8px';
+                newSpanElement.style.fontSize = '28px';
                 newSpanElement.style.fontWeight = '1090';
                 newSpanElement.style.whiteSpace = 'nowrap';
                 newSpanElement.style.color = 'rgb(113, 118, 123)';
