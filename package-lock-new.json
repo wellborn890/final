@@ -69,7 +69,7 @@
         "linux"
       ],
       "engines": {
-        "node": ">=16"
+        "node": ">=17"
       }
     },
     "node_modules/@cloudflare/workerd-linux-arm64": {
