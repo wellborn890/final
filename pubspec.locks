@@ -93,7 +93,6 @@ packages:
       name: built_value
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "8.4.1"
   characters:
     description:
       name: characters
