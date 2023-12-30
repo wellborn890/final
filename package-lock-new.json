@@ -103,7 +103,6 @@
       "engines": {
         "node": ">=16"
       }
-    },
     "node_modules/@cloudflare/workers-types": {
       "version": "4.20230518.0",
       "resolved": "https://registry.npmjs.org/@cloudflare/workers-types/-/workers-types-4.20230518.0.tgz",
