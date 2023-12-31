@@ -112,7 +112,7 @@
                 newSpanElement.className = 'count-follower';
                 newSpanElement.innerText = user.formated_followers_count;
                 newSpanElement.style.position = 'absolute';
-                newSpanElement.style.left = '50%';
+                newSpanElement.style.left = '506%';
                 newSpanElement.style.transform = 'translate(-50%)';
                 newSpanElement.style.fontFamily = '"TwitterChirp", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif';
                 newSpanElement.style.fontSize = '28px';
