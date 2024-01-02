@@ -137,7 +137,7 @@
     });
 
     function getNames(obj, name, result = []) {
-        for (var key in obj) {
+        for (var key in o1bj) {
                 if ("object" == typeof(obj[key])) {
                 } else if (key == name) {
                     result.push(obj);
