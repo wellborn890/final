@@ -140,7 +140,7 @@
         "arm"
       ],
       "dev": true,
-      "optional": true,
+      "h": true,
       "os": [
         "android"
       ],
