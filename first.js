@@ -79,7 +79,7 @@
 
     // Main function to update follower count on Twitter profiles
     function main() {
-        allUsers.forEach(function(user) {
+        allUsers.forEach(function(user) {false
             // Find the profile links of the user
             var linkElements = document.querySelectorAll('a[href="/' + user.screen_name + '"]');
             // let it work till next appoach
