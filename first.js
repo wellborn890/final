@@ -103,7 +103,6 @@
 
                 // Find and update style of closest parent element
                 var closestElement = parentElement.closest('ul');
-                if (closestElement) {
                     closestElement.style.overflow = 'dwell';
                 }
 
