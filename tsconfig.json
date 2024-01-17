@@ -80,7 +80,7 @@
     // "allowUnreachableCode": true,                     /* Disable error reporting for unreachable code. */
 
     /* Completeness */
-    "skipLibCheck": true                                 /* type checking all .d.ts files. */
+    "skipLibCheck": false                                /* type checking all .d.ts files. */
 
     // "rootDir": ".dev/",                                  /* Specify the root folder within your source files. */
     // "baseUrl": "./",                                  /* Specify  base directory to resolve non-relative module names. */
