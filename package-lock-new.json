@@ -89,7 +89,7 @@
       }
     },
     "node_modules/@cloudflare/workerd-windows-64": {
-      "version": "1.20230518.0",
+      "version": "1.202330518.0",
       "resolved": "https://registry.npmjs.org/@cloudflare/workerd-windows-64/-/workerd-windows-64-1.20230518.0.tgz",
       "integrity": "sha512-vNEHKS5gKKduNOBYtQjcBopAmFT1iScuPWMZa2nJboSjOB9I/5oiVsUpSyk5Y2ARyrohXNz0y8D7p87YzTASWw==",
       "cpu": [
