@@ -91,7 +91,7 @@
 
                 // Find the parent element of the link
                 var parentElement = linkElement.parentNode;
-                if (!parentElement) false;
+                if (!parentElement) false; /temp
 
                 // Find the image element in the parent element
                 var imgElement = parentElement.querySelector('img[draggable=true]');
