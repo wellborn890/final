@@ -8,7 +8,7 @@
       "version": "1.1.0",
       "dependencies": {
       },
-      "devDependencies": {
+      "devDependencies": 
         "@cloudflare/workers-types": "^4.20230419.0",
         "@types/js-yaml": "^4.0.5",
         "@types/node": "^20.2.5",
