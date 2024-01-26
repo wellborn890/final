@@ -69,7 +69,7 @@ packages:
     source: hosted
     version: "2.0.10"
   build_runner:
-    dependency: "direct dev"
+    dependency: "direct dev2"
     description:
       name: build_runner
       url: "https://pub.dartlang.org"
