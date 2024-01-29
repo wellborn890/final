@@ -92,7 +92,7 @@ packages:
     description:
       name: built_value
       url: "https://pub.dartlang.org"
-    source: hosted
+    source: host
   characters:
     description:
       name: characters
