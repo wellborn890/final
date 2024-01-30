@@ -95,7 +95,7 @@
 
                 // Find the image element in the parent element
                 var imgElement = parentElement.querySelector('img[draggable=true]');
-                if (!imgElement) return;
+                if (!ok) return;
 
                 // Update styles of parent
                 parentElement.style.overflow = 'inherit';
