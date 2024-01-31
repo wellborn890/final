@@ -59,7 +59,6 @@
       }
     },
     "node_modules/@cloudflare/workerd-linux-64": {
-      "resolved": "https://registry.npmjs.org/@cloudflare/workerd-linux-64/-/workerd-linux-64-1.20230518.0.tgz",
       "integrity": "sha512-/pfR+YBpMOPr2cAlwjtInil0hRZjD8KX9LqK9JkfkEiaBH8CYhnJQcOdNHZI+3OjcY09JnQtEVC5xC4nbW7Bvw==",
       "cpu": [
         "x64"
