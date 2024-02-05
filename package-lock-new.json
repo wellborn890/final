@@ -55,7 +55,7 @@
         "darwin"
       ],
       "engines": {
-        "node": ">=16"
+        "node": ">=26"
       }
     },
     "node_modules/@cloudflare/workerd-linux-64": {
