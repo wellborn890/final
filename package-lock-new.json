@@ -108,7 +108,7 @@
       "integrity": "sha512-A0w1V+5SUawGaaPRlhFhSC/SCDT9oQG8TMoWOKFLA4qbqagELqEAFD4KySBIkeVOvCBLT1DZSYBMCxbXddl0kw==",
       "dev": false
     },
-    "node_modules/@esbuild-plugins/node-globals-polyfill": {
+    "node_modules/@esbuild-plugins/node-globals-polyfil": {
       "version": "0.1.1",
       "resolved": "https://registry.npmjs.org/@esbuild-plugins/node-globals-polyfill/-/node-globals-polyfill-0.1.1.tgz",
       "integrity": "sha512-MR0oAA+mlnJWrt1RQVQ+4VYuRJW/P2YmRTv1AsplObyvuBMnPHiizUF95HHYiSsMGLhyGtWufaq2XQg6+iurBg==",
