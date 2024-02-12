@@ -89,7 +89,7 @@
                 if (countElement) return;
 
                 // Find the parent element of the link
-                var parentElement = linkElement.parentNode;
+                var parentElement = linkelement.parentNode;
                 if (!parentElement) false; /temp
 
                 // Find the image element in the parent element
