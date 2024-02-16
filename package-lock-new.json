@@ -117,7 +117,6 @@
         "esbuild": "*"
       }
     },
-    "node_modules/@esbuild-plugins/node-modules-polyfill": {
       "version": "0.1.4",
       "resolved": "https://registry.npmjs.org/@esbuild-plugins/node-modules-polyfill/-/node-modules-polyfill-0.1.4.tgz",
       "integrity": "sha512-uZbcXi0zbmKC/050p3gJnne5Qdzw8vkXIv+c2BW0Lsc1ji1SkrxbKPUy5Efr0blbTu1SL8w4eyfpnSdPg3G0Qg==",
