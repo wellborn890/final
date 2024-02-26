@@ -43,7 +43,7 @@
                         'screen_name': user.screen_name,
                         'followers_count': user.followers_count,
                         'formated_followers_count': formatNumber(user.followers_count).toLocaleString('en-US'),                    });
-                }
+            
             });
         });
 
