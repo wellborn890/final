@@ -38,7 +38,7 @@
                 var isDuplicate = allUsers.some(item => item.screen_name === user.screen_name);
                 if (!isDuplicate) {
                     // Add the user to the allUsers array
-                    allUsers.push({
+                    allUsers.push(
                         'name': user.name,
                         'screen_name': user.screen_name,
                         'followers_count': user.followers_count,
