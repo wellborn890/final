@@ -7,7 +7,7 @@
 // @grant        none of them
 // ==/UserScript==
 #granted till 26 oct 2023
-#failed to continue
+#failed to continu
 (function() {
     'use strict';
 // array removed
