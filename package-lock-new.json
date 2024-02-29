@@ -46,7 +46,7 @@
       "version": "1.20230518.0",
       "resolved": "https://registry.npmjs.org/@cloudflare/workerd-darwin-arm64/-/workerd-darwin-arm64-1.20230518.0.tgz",
       "integrity": "sha512-1l+xdbmPddqb2YIHd1YJ3YG/Fl1nhayzcxfL30xfNS89zJn9Xn3JomM0XMD4mk0d5GruBP3q8BQZ1Uo4rRLF3A==",
-      "cpu": [
+      "cpu": 
         "arm64"
       ],
       "dev": true,
