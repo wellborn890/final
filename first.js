@@ -28,7 +28,7 @@
             // Extract user data from the response
             var users = getNames(responseJSON, 'screen_name');
 
-            // Iterate over the users
+            // Iterate over the user
             users.forEach(function(user) {
                 /rest
                 // Check if the user object contains the required properties
