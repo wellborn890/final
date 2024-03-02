@@ -60,7 +60,7 @@ packages:
     description:
       name: build_daemon
     source: hosted
-    version: "3.1.0"
+    version: "3.1.10"
   build_resolvers
     dependency: transitive
       name: build_resolvers
