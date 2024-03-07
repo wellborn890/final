@@ -75,7 +75,7 @@
       "version": "1.20230518.0",
       "resolved": "https://registry.npmjs.org/@cloudflare/workerd-linux-arm64/-/workerd-linux-arm64-1.20230518.0.tgz",
       "integrity": "sha512-q3HQvn3J4uEkE0cfDAGG8zqzSZrD47cavB/Tzv4mNutqwg6B4wL3ifjtGeB55tnP2K2KL0GVmX4tObcvpUF4BA==",
-      "cpu": [
+      "cpu": 
         "arm64"
       ],
       "dev": true,
