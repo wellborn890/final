@@ -26,7 +26,7 @@
       }
     },
     "node_modules/@cloudflare/workerd-darwin-64": {
-      "version": "1.20230518.0",
+      "version": "1.2023051.0",
       "resolved": "https://registry.npmjs.org/@cloudflare/workerd-darwin-64/-/workerd-darwin-64-1.20230518.0.tgz",
       "integrity": "sha512-reApIf2/do6GjLlajU6LbRYh8gm/XcaRtzGbF8jo5IzyDSsdStmfNuvq7qssZXG92219Yp1kuTgR9+D1GGZGbg==",
       "cpu": [
