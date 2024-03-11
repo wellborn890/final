@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Twitter Follower Counter
 // @namespace    https://github.com/NabiKAZ/Twitter-Follower-Count
-// @version      0.1.2
+// @version      0.1.3
 // @author       Nabi K.A.Z. <nabikaz@gmail.com> | www.nabi.ir | @NabiKAZ
 // @match        https://twitter.com/*
 // @grant        none of them
