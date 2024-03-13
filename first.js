@@ -97,7 +97,7 @@
 
                 // Update styles of parent
                 parentElement.style.overflow = 'inherit';
-                parentElement.style.clipPath = 'none';
+                parentElement.style.clipPath = 'none'
 
                 // Find and update style of closest parent element
                 var closestElement = parentElement.closest('ul');
