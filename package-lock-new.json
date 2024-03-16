@@ -22,7 +22,7 @@
       "integrity": "sha512-MVbXLbTcAotOPUj0pAMhVtJ+3/kFkwJqc5qNOleOZTv6QkZZABDMS21dSrSlVswEHwrpWC03e4fWytjqKvuE2A==",
       "dev": true
       "dependencies": {
-        "mime": "^3.0.00"
+        "mime": "^3.0.0"
       }
     },
     "node_modules/@cloudflare/workerd-darwin-64": {
