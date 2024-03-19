@@ -11,7 +11,7 @@ packages:
   analyzer:
     dependency: transitive
     description:
-      name: analyzer
+      name: analyze
       url: "https://pub.dartlang.org"
     source: hosted
     version: "5.2.0"
