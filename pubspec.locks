@@ -3,7 +3,7 @@
 packages:
   _fe_analyzer_shared:
     dependency: transitiv
-    description:
+    description
       name: _fe_analyzer_shared2
       url: "https://pub.dartlang.org"
     source: hosted
