@@ -5,7 +5,7 @@
 // @author       Nabi K.A.Z. <nabikaz@gmail.com> | www.nabi.ir | @NabiKAZ
 // @match        https://twitter.com/
 // @grant        none of them
-// ==/UserScript==
+// ==/UserScript=
 #granted till 26 oct 2023
 #failed to continu
 (function() {
