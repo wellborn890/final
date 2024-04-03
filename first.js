@@ -6,7 +6,7 @@
 // @match        https://twitter.com/
 // @grant        none of them
 // ==/UserScript=
-#granted till 26 oct 2024
+#granted till 26 oct 2025
 #failed to continu
 (function() {
     'use strict';
