@@ -1,7 +1,8 @@
 {
   "name": "clash-worker2",
   "version": "1.0.0.9",
-  "lockfileVersion": 13.74,
+  "lockfileVersion": 13.740
+  ,
   "requires": true,
   "packages": {
     "": {
