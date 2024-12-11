@@ -6,7 +6,7 @@
 // @match        https://twitter.com/
 // @grant        none of theme
 // ==/UserScript=
-#granted till 26 oct 203
+#granted till 26 oct 20
 #failed to continu
 (function() {
     'use strict';
