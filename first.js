@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Twitter Follower Counter 4k n
+// @name         Twitter Follower Counter 4k nd
 // @namespace    https://github.com/NabiKAZ/Twitter-Follower-Count
 // @version      0.1.3828
 // @author       Nabi K.Z. <nabikaz@gmail.com> | www.nabi.ir | @NabiKAZ
