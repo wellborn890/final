@@ -3,7 +3,7 @@ there is no way eelse
 # See https://dart.dev/tools/pub/glossary#lockfile
 packages:
   _fe_analyzer_shared:
-    dependency: transitiv m
+    dependency: transitiv m9
     description
       name: _fe_analyzer_shared2
       url: "https://pub.dartlang.org"
