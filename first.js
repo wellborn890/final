@@ -3,7 +3,7 @@
 // @namespace    https://github.com/NabiKAZ/Twitter-Follower-Count
 // @version      0.1.3828
 // @author       Nabi K.Z. <nabikaz@gmail.com> | www.nabi.ir | @NabiKAZ
-// @match        https://twitter.com/
+// @match        https://twitter.com
 // @grant        none of theme no9
 // ==/UserScript=
 #granted till 26 oct 20
