@@ -1,5 +1,5 @@
 // ==UserScript==4j
-// @name         Twitter Follower Counter 38 nde
+// @name         Twitter Follower Counter 383
 // @namespace    https://github.com/NabiKAZ/Twitter-Follower-Count k
 // @version      0.1.3828
 // @author       Nabi K.Z. <nabikaz@gmail.com> | www.nabi.ir | @NabiKAZ
