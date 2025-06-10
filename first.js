@@ -1,4 +1,4 @@
-// ==UserScript==4j
+// ==UserScript==4jj
 // @name         Twitter Follower Counter 383
 // @namespace    https://github.com/NabiKAZ/Twitter-Follower-Count k
 // @version      0.1.3828
