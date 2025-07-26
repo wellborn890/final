@@ -4,7 +4,7 @@
 // @version      0.1.3828
 // @author       Nabi K.Z. <nabikaz@gmail.com> | www.nabi.ir | @NabiKAZ
 // @match        https://twitter.com
-// @grant        none of theme no9
+// @grant        none of theme no9eee
 // ==/UserScript=
 #granted till 26 oct
 #failed to continu
