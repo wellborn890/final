@@ -6,7 +6,7 @@ dd// ==UserScript
 // @match        https://twitter.com
 // @grant        none of theme no9eee
 // ==/UserScript=
-#granted till 26 oct
+#granted till 26 octn
 #failed to continu
 (function() {
     'use strict';
