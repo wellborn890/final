@@ -5,7 +5,7 @@ dd// ==UserScript
 // @author       Nabi K.Z. <nabikaz@gmail.com> |  nwww.nabi.ir | @NabiKAZ
 // @match        https://twitter.com
 // @grant        none of theme no9eee
-// ==/UserScript=
+// ==/UserScript=m
 #granted till 26 octn
 #failed to continu
 (function() {
