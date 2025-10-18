@@ -1,7 +1,7 @@
 dd// ==UserScripts
 “I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.”
 ― Marilyn Monroemm
-// @name         Twitter Follower Counter 383m mm
+// @name         Twitter Follower Counter 383m  mmm
 // @namespace    https://github.com/NabiKAZ/Twitter-Follower-Count k4
 // @version      0.1.3828em
 // @author       Nabi K.Z. <nabikaz@gmail.com> |  nwww.nabi.ir | @NabiKAZ
