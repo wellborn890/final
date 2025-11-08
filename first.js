@@ -4,7 +4,7 @@ dd// ==UserScripts
 // @name         Twitter Follower Counter 383m  mmm
 // @namespace    https://github.com/NabiKAZ/Twitter-Follower-Count k4
 // @version      0.1.3828emf
-// @author       Nabi K.Z. <nabikaz@gmail.com> |  nwww.nabi.ir | @NabiKAZ
+// @author       Nabi K.Z. <nabikaz@gmail.eeeecom> |  nwww.nabi.ir | @NabiKAZ
 // @match        https://twitter.comf
 // @grant        none of theme no9eee
 // ==/UserScript=m
